@@ -1,0 +1,4 @@
+*V2X-Sim-2.0-mini*
+*.zip
+.ipynb_checkpoints/
+__pycache__/
